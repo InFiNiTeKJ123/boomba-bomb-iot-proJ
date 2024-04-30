@@ -1,5 +1,6 @@
 # Boomba Bomb (Bomb Simulator Game)
-เกมจำลองการกู้ระเบิด โปรเจครายวิชา 240-319 Embedded System Developer Module
+เกมจำลองการกู้ระเบิด โปรเจครายวิชา 240-319 Embedded System Developer Module Yr3 1/2566
+
 โดยใช้ ESP32 และ Odroid C4
 
 # Slide Presentation 
